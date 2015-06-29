@@ -12,6 +12,8 @@ import com.woogux.imageloadinstance.R;
 
 /**
  * Created by wgx on 15/6/26.
+ *
+ * A simple imageview which could load image asynchronously.
  */
 public class AsyncImageView extends ImageView {
 
